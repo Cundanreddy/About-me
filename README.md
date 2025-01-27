@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>i'm currently working on DSP projects.<br>i'm currently learning linux.<br>
+<br>i'm currently working on DSP projects.<br>
 
 
 ## 🌐 Socials:
