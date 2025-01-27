@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm looking for collaboration in any CSE based projects.<br>i'm currently working on DSP projects.<br>i'm currently learning linux.<br>
+<br>i'm currently working on DSP projects.<br>i'm currently learning linux.<br>
 
 
 ## 🌐 Socials:
